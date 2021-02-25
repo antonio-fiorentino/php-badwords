@@ -13,6 +13,7 @@
 
 
     $text = str_replace('incididunt', '***', $text);
+    $text = str_replace('ipsum', '***', $text);
 
     echo $text;
 
